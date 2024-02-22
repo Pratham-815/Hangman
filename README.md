@@ -1,1 +1,1 @@
-# This repository contains code for the game known by the name 'Hangman'.
+# This repository contains code for the game known by the name 'Hangman'. In this game, a random word is generated from a list and the user has to guess the word or the alphabets. The user has limited attempts to guess the word or its alphabets, failing to do so and the man will be hanged 
